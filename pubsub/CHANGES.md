@@ -1,5 +1,12 @@
 # Changes
 
+## [1.20.0](https://github.com/googleapis/google-cloud-go/compare/pubsub/v1.19.0...pubsub/v1.20.0) (2022-03-14)
+
+
+### Features
+
+* **pubsub/pstest:** add topic retention support ([#4790](https://github.com/googleapis/google-cloud-go/issues/4790)) ([0a4ad6a](https://github.com/googleapis/google-cloud-go/commit/0a4ad6a72ddc379a94a88ec70ac678a227843cfd))
+
 ## [1.19.0](https://github.com/googleapis/google-cloud-go/compare/pubsub/v1.18.0...pubsub/v1.19.0) (2022-03-07)
 
 
